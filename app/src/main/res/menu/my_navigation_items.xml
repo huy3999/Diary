@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_date"
+        android:enabled="true"
+        android:title="Date"
+        android:icon="@drawable/ic_baseline_date_range_24" />
+    <item android:id="@+id/action_time"
+        android:title="Time"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_access_time_24" />
+    <item android:id="@+id/action_color"
+        android:title="Color"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_color_lens_24" />
+    <item android:id="@+id/action_delete"
+        android:title="Delete"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_delete_24" />
+</menu>
